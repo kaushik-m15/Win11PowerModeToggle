@@ -1,5 +1,5 @@
 # Win11PowerModeToggle
-Changes toggles the (overlay) power mode between "Balanced" and "High Performance", or whichever GUID you specify, and displays a helpful overlay at the bottom.
+Changes toggles the (overlay) power mode between "Balanced" and "High Performance", or whichever GUID you specify, and displays an overlay at the bottom.
 
 The executable has been provided in *Releases* in case you want to prevent the PowerShell window from appearing. You can use the following commands in PowerShell if you want to compile the .exe yourself:
 
